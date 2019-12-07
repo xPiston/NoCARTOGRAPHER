@@ -1,0 +1,10 @@
+name: NoCARTOGRAPHER
+version: 1.0.0
+description: NoCARTOGRAPHER
+author: Piston
+main: fr.piston.Main
+api-version: 1.13
+commands:
+  NoCARTOGRAPHER:
+    syntax: /NoCARTOGRAPHER
+    description: 1.0.0
